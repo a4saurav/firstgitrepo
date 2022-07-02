@@ -1,5 +1,7 @@
 I am learning Git.
 It is very eazy to use.DevOps.
 
+There are lots of thing to learn in devops.
+
 Thanks,
 Avinash
